@@ -1,0 +1,2 @@
+# LintCode
+repository for lintcode
